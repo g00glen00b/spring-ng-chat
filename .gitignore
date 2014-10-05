@@ -1,5 +1,5 @@
 /target
-/libs
+src/main/webapp/libs
 .settings
 .classpath
 .project
