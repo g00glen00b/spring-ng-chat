@@ -2,9 +2,9 @@
   "name": "spring-ng-chat",
   "version": "0.0.1-SNAPSHOT",
   "dependencies": {
-    "sockjs": "latest",
-    "stomp-websocket": "latest",
-    "angular": "latest",
-    "lodash": "latest"
+    "sockjs": "0.3.4",
+    "stomp-websocket": "2.3.4",
+    "angular": "1.3.8",
+    "lodash": "2.4.1"
   }
 }
